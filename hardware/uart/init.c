@@ -1,6 +1,7 @@
 /*
  * init.c: 进行一些初始化
  */ 
+/* Test git version */
 
 #include "s3c24xx.h"
  
